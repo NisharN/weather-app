@@ -1,0 +1,38 @@
+
+  
+  #bg.sunny-bg {
+    background-image: url('./assets/sunny.jpg');
+}
+  
+  
+  #bg.cloudy-bg {
+    background-image: url('./assets/cloudy.jpg');
+}
+  
+  
+  #bg.rainy-bg {
+    background-image: url('./assets/rainy.jpg');
+}
+  
+  
+  #container {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+  }
+  
+  input {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  button {
+    cursor: pointer;
+    transition: background 0.3s ease, color 0.3s ease;
+  }
+  
+#bg{
+    background-image: url('./assets/Download-Free-Weather-Background.jpg');
+}
